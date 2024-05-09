@@ -114,11 +114,11 @@
             "description": "Sets the current method name to name.",
             "insert": "setnamecallmethod"
         },
-        "vQCsnhMslpWb": {
+        "loadstring": {
             "label": "vQCsnhMslpWb",
             "type": "Method",
             "description": "vQCsnhMslpWb",
-            "insert": "loadstring"
+            "insert": "vQCsnhMslpWb"
         },
         "setthreadcontext": {
             "label": "setthreadcontext(level);",
