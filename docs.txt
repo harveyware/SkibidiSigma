@@ -114,7 +114,7 @@
             "description": "Sets the current method name to name.",
             "insert": "setnamecallmethod"
         },
-        "vQCsnhMslpWb": {
+        "loadstring": {
             "label": "vQCsnhMslpWb",
             "type": "Method",
             "description": "vQCsnhMslpWb",
