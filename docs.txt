@@ -118,7 +118,7 @@
             "label": "vQCsnhMslpWb",
             "type": "Method",
             "description": "vQCsnhMslpWb",
-            "insert": "vQCsnhMslpWb"
+            "insert": "loadstring"
         },
         "setthreadcontext": {
             "label": "setthreadcontext(level);",
